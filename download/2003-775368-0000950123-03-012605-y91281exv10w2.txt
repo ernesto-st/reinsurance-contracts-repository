@@ -1,0 +1,1157 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>4
+<FILENAME>y91281exv10w2.txt
+<DESCRIPTION>RIC QUOTA SHARE REINSURANCE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.2
+
+
+
+                                 RIC (LANDMARK)
+
+                        QUOTA SHARE REINSURANCE AGREEMENT
+
+                                 By and Between
+
+                       LANDMARK AMERICAN INSURANCE COMPANY
+
+                                   (as Cedent)
+
+                                       and
+
+                             ROYAL INDEMNITY COMPANY
+
+                                 (as Reinsurer)
+
+                            DATED: September 2, 2003
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                            Page
+                                                                                                            ----
+<S>                                                                                                         <C>
+                                             ARTICLE I DEFINITIONS
+
+Section 1.1       Definitions...........................................................................      2
+
+                                        ARTICLE II BASIS OF REINSURANCE
+
+Section 2.1       Cession...............................................................................      5
+Section 2.2       Effect of Reinsured Contracts.........................................................      5
+Section 2.3       Other Reinsurance.....................................................................      5
+
+                                      ARTICLE III PREMIUMS AND ALLOWANCES
+
+Section 3.1       Cedent's Payment Obligations..........................................................      6
+Section 3.2       Reinsurer's Payment Obligations.......................................................      6
+Section 3.3       Reinsurance Administration............................................................      7
+
+                                           ARTICLE IV CONSIDERATION
+
+Section 4.1       Consideration.........................................................................      7
+
+                                ARTICLE V ACCOUNTING AND REINSURANCE SETTLEMENT
+
+Section 5.1       Delivery of Accounting and Settlement Reports.........................................      7
+Section 5.2       Report of Allowances..................................................................      7
+Section 5.3       Payment of Amounts Indicated in Accounting and Settlement Reports.....................      7
+
+                                      ARTICLE VI ACCOMMODATION CONTRACTS
+
+Section 6.1       Accommodation Contracts...............................................................      8
+
+                                 ARTICLE VII REINSURED CONTRACT ADMINISTRATION
+
+Section 7.1       Administrative Services...............................................................      9
+
+                                            ARTICLE VIII INSOLVENCY
+
+Section 8.1       Insolvency............................................................................      9
+Section 8.2       Notice of Pendency of Claim...........................................................      9
+Section 8.3       Notice of Insolvency..................................................................      9
+
+                                      ARTICLE IX DURATION AND TERMINATION
+
+Section 9.1       Effectiveness.........................................................................     10
+Section 9.2       Termination...........................................................................     10
+
+                                         ARTICLE X DUTY OF COOPERATION
+
+Section 10.1      Full Cooperation......................................................................     10
+Section 10.2      Furnishing of Relevant Information....................................................     11
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<S>                                                                                                          <C>
+                                          ARTICLE XI INDEMNIFICATION
+
+Section 11.1      Indemnification by Reinsurer..........................................................     11
+Section 11.2      Indemnification by Cedent.............................................................     11
+
+                                        ARTICLE XII REINSURANCE CREDIT
+
+Section 12.1      Reinsurance Credit....................................................................     11
+Section 12.2      Notification..........................................................................     12
+
+                                           ARTICLE XIII ARBITRATION
+
+Section 13.1      Arbitration...........................................................................     12
+Section 13.2      Notice of Arbitration.................................................................     12
+Section 13.3      Arbitration Panel.....................................................................     12
+Section 13.4      Submission of Briefs..................................................................     13
+Section 13.5      Arbitration Board's Decision..........................................................     13
+Section 13.6      Jurisdiction..........................................................................     13
+Section 13.7      Expenses..............................................................................     13
+Section 13.8      Production of Documents and Witnesses.................................................     14
+Section 13.9      Relief Available......................................................................     14
+Section 13.10     Consolidation.........................................................................     14
+
+                                     ARTICLE XIV MISCELLANEOUS PROVISIONS
+
+Section 14.1      Amendment, Modification and Waiver....................................................     14
+Section 14.2      Entire Agreement......................................................................     14
+Section 14.3      Governing Law.........................................................................     15
+Section 14.4      Severability..........................................................................     15
+Section 14.5      Counterparts..........................................................................     15
+Section 14.6      Consent to Jurisdiction...............................................................     15
+Section 14.7      Third Party Beneficiaries.............................................................     15
+Section 14.8      Binding; Assignment...................................................................     16
+Section 14.9      Specific Performance..................................................................     16
+Section 14.10     Descriptive Headings..................................................................     16
+Section 14.11     Waiver of Doctrine of Utmost Good Faith...............................................     16
+Section 14.12     Expenses .............................................................................     16
+Section 14.13     Survival .............................................................................     16
+Section 14.14     Notices ..............................................................................     16
+Section 14.15     Interpretation........................................................................     18
+Section 14.16     Construction..........................................................................     18
+Section 14.17     Territory.............................................................................     18
+Section 14.18     Confidentiality.......................................................................     19
+</TABLE>
+
+                                       ii
+<PAGE>
+
+                                    EXHIBITS
+
+EXHIBIT A         Form of Accounting and Settlement Reports
+
+                                    SCHEDULES
+
+Schedule 6.1(b)   Third Parties to Whom Reinsurer May Assign its Authority
+
+                                       iii
+<PAGE>
+
+                RIC (LANDMARK) QUOTA SHARE REINSURANCE AGREEMENT
+
+                  THIS RIC (LANDMARK) QUOTA SHARE REINSURANCE AGREEMENT
+(together with all Exhibits hereto, this "RIC (Landmark) Quota Share Reinsurance
+Agreement") is made as of the Closing Date (as defined herein), by and between
+Landmark American Insurance Company, a property and casualty insurance company
+organized under the laws of the State of Oklahoma ("Cedent"), and Royal
+Indemnity Company, a property and casualty insurance company organized under the
+laws of the State of Delaware ("Reinsurer").
+
+                  WHEREAS, Guaranty National Insurance Company, a corporation
+organized and existing under the laws of the State of Colorado ("Guaranty
+National"), and Alleghany Insurance Holdings LLC, a Delaware limited liability
+company ("AIHL"), have entered into a Stock Purchase Agreement, dated as of June
+6, 2003 (the "Landmark Stock Purchase Agreement"), pursuant to which AIHL will
+purchase all of the issued and outstanding shares of common stock of Cedent;
+
+                  WHEREAS, pursuant to an Assignment and Assumption Agreement,
+dated as of July 1, 2003, by and between AIHL and Underwriters Reinsurance
+Company, a property and casualty insurance company organized under the laws of
+the state of New Hampshire, AIHL assigned, and Underwriters Reinsurance Company
+assumed, all of the rights and obligations of AIHL under the Landmark Stock
+Purchase Agreement;
+
+                  WHEREAS, effective as of August 18, 2003, the name of
+Underwriters Reinsurance Company was changed to RSUI Indemnity Company;
+
+                  WHEREAS, Guaranty National and Cedent are terminating the 1993
+Reinsurance Agreement (as defined below) in accordance with the Termination
+Endorsement (as defined in the Landmark Stock Purchase Agreement);
+
+                  WHEREAS, Reinsurer is an affiliate of Guaranty National and a
+party to the Landmark Stock Purchase Agreement only for the purposes of Sections
+5.12, 5.15 and 5.16 therein and for the purpose of entering into this RIC
+(Landmark) Quota Share Reinsurance Agreement, pursuant to which Cedent will
+cede, and Reinsurer will assume, on a 100% quota share basis, the liabilities
+and obligations arising out of the Reinsured Contracts (as defined below);
+
+                  WHEREAS, Cedent wishes to cede to Reinsurer such liabilities
+and obligations, and Reinsurer desires to assume such liabilities and
+obligations, subject to the terms and conditions of this RIC (Landmark) Quota
+Share Reinsurance Agreement; and
+
+                  WHEREAS, Reinsurer will administer all aspects of the
+Reinsured Contracts and the Reinsured Liabilities (all as defined below) subject
+to the terms and conditions of the RIC (Landmark) Administrative Services
+Agreement (as defined below).
+
+<PAGE>
+
+                  NOW, THEREFORE, for and in consideration of the premises and
+the promises and the mutual agreements hereinafter set forth and set forth in
+the Landmark Stock Purchase Agreement and RIC (Landmark) Administrative Services
+Agreement, the parties hereto, intending to be legally bound, covenant and agree
+as follows:
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+                  Section 1.1 Definitions. Capitalized terms used but not
+defined herein and which are defined in the Landmark Stock Purchase Agreement
+shall have the meanings ascribed to them in the Landmark Stock Purchase
+Agreement. As used in this RIC (Landmark) Quota Share Reinsurance Agreement, the
+following terms shall have the meanings set forth herein:
+
+                  "AAA" shall have the meaning set forth in Section 13.3.
+
+                  "Accommodation Contracts" shall have the meaning set forth in
+Section 6.1.
+
+                  "Accommodation Period" shall have the meaning set forth in
+Section 6.1.
+
+                  "Affiliate" of any Person means another Person that from time
+to time, directly or indirectly controls, is controlled by, or is under common
+control with, such first Person, where "control" means the possession, directly
+or indirectly, of the power to direct or cause the direction of the management
+policies of a Person, whether through the ownership of voting securities, by
+contract, as trustee or executor, or otherwise. For the purposes of this RIC
+(Landmark) Quota Share Reinsurance Agreement, the term "Affiliated" has a
+meaning correlative to the foregoing.
+
+                  "AIHL" shall have the meaning set forth in the recitals.
+
+                  "Applicable Law" means any applicable order, law, statute,
+regulation, rule, ordinance, writ, injunction, directive, judgment, decree,
+principal of common law, constitution or treaty enacted, promulgated, issued,
+enforced or entered by any Governmental Entity, including any amendments thereto
+that may be adopted from time to time.
+
+                  "Board" shall have the meaning set forth in Section 13.1.
+
+                  "Business Day" means a Monday, Tuesday, Wednesday, Thursday or
+Friday on which banking institutions in the State of New York are not authorized
+or obligated by Applicable Law to close.
+
+                  "Closing" means the closing of the transactions contemplated
+by the Landmark Stock Purchase Agreement.
+
+                                        2
+<PAGE>
+
+                  "Closing Date" shall mean the date on which the Closing takes
+place.
+
+                  "Company Insurance Contracts" shall have the meaning set forth
+in the Landmark Stock Purchase Agreement.
+
+                  "Damages" means all costs, expenses, fines, penalties, losses,
+judgments, damages, Reinsured Liabilities and other amounts (including
+attorneys', actuaries', accountants' and experts' fees and settlement amounts)
+arising out of any suit, claim or proceeding.
+
+                  "Excluded Liabilities" means any liability or obligation of
+Cedent for:
+
+                  (1)      Extra Contractual Liabilities and any related
+         attorneys' fees and other expenses incurred by Cedent (i) to the extent
+         caused by acts, errors or omissions by Cedent or any of its officers,
+         employees, agents or representatives that occurred after the Closing
+         Date, or (ii) to the extent arising out of or relating to the Company
+         Insurance Contracts; and
+
+                  (2)      any liability or obligation arising out of or
+         relating to Cedent's failure to follow in all material respects any
+         written recommendation made by the Administrator (as defined in the RIC
+         (Landmark) Administrative Services Agreement) pursuant to the RIC
+         (Landmark) Administrative Services Agreement unless by following such
+         recommendation Cedent, in its reasonable judgment, would not comply in
+         all material respects with Applicable Law or the terms of the Reinsured
+         Contracts, in which case all liabilities and obligations arising from
+         changes necessary to conform the conduct contemplated by such
+         recommendation in all material respects to Applicable Law and the terms
+         of the Reinsured Contracts shall be considered Reinsured Liabilities.
+
+                  "Extra Contractual Liabilities" means all liabilities or
+obligations, other than those arising under the express terms of and within the
+express limits of the insurance or reinsurance contracts, whether to
+policyholders, Governmental Entities or any other Person, which liabilities and
+obligations shall include, without limitation, any liability for punitive,
+exemplary, special or any other form of extra-contractual damages relating to
+the Reinsured Contracts which arises from any act, error or omission, whether or
+not intentional, in bad faith or otherwise, including, without limitation, any
+act, error or omission relating to (i) the investigation, coverage analysis,
+defense, trial, settlement or handling of claims, benefits, or payments arising
+out of or relating to the Reinsured Contracts or (ii) the failure to pay or the
+delay in payment of benefits, claims or any other amounts due or alleged to be
+due under or in connection with the Reinsured Contracts.
+
+                  "Governmental Entity" means any foreign, domestic, federal,
+territorial, state or local U.S. or non-U.S. governmental authority,
+quasi-governmental authority, instrumentality, court or government
+self-regulatory organization, commission, tribunal or organization or any
+political or other subdivision, department, branch or representative of any of
+the foregoing.
+
+                  "Guaranty National" shall have the meaning set forth in the
+recitals.
+
+                                        3
+<PAGE>
+
+                  "Landmark Ancillary Agreements" means this RIC (Landmark)
+Quota Share Reinsurance Agreement, the RIC (Landmark) Administrative Services
+Agreement and the other agreements identified as Landmark Ancillary Agreements
+in the Landmark Stock Purchase Agreement.
+
+                  "Landmark Stock Purchase Agreement" shall have the meaning set
+forth in the recitals.
+
+                  "90-Day Treasury Rate" means the annual yield rate, as of any
+given date, of actively traded U.S. Treasury securities having remaining
+duration to maturity of three months, as such rate is published under "Treasury
+Constant Maturities" in Federal Reserve Statistical Release H.15(519).
+
+                  "1993 Reinsurance Agreement" shall mean the reinsurance
+agreement dated January 1, 1993, by and between Guaranty National and Cedent.
+
+                  "Person" means an individual, corporation, partnership, joint
+venture, association, limited liability company, trust, unincorporated
+organization, or other entity.
+
+                  "Policyholder(s)" means, as applicable, the named insureds
+under, or policyholders with respect to, the Reinsured Contracts or any other
+person entitled to payment under the Reinsured Contracts.
+
+                  "Qualifying Letter of Credit" means a clean, irrevocable,
+unconditional and evergreen letter of credit issued by a bank and in a form
+acceptable to the Insurance Department of the State of Oklahoma.
+
+                  "Reinsurance Recoverables" means all amounts due under
+reinsurance agreements entered into with Unaffiliated Reinsurers relating to the
+Reinsured Contracts, including all receivables, recoverables, returns, amounts
+in respect of profit sharing and all other sums to which Cedent may be entitled
+under the third party reinsurance agreements except to the extent related to
+reinsurance recoverables for Excluded Liabilities.
+
+                  "Reinsured Contracts" means (i) Accommodation Contracts and
+(ii) all policies, binders and contracts of insurance issued in Cedent's name
+prior to the Closing Date, other than the Company Insurance Contracts.
+
+                  "Reinsured Liabilities" means all liabilities and obligations
+of any nature arising out of or relating to the Reinsured Contracts, including
+without limitation (i) any loss or allocated loss expense or unearned premium
+obligation, (ii) Extra Contractual Liabilities and any related attorney fees and
+other expenses, and (iii) any liabilities and obligations arising out of or
+relating to a right to purchase additional coverage and obligations arising
+under legal or regulatory requirements, but excluding Excluded Liabilities.
+
+                                        4
+<PAGE>
+
+                  "RIC (Landmark) Administrative Services Agreement" means the
+RIC (Landmark) Administrative Services Agreement being entered into between
+Reinsurer and Cedent relative to this RIC (Landmark) Quota Share Reinsurance
+Agreement.
+
+                  "RSUI" shall mean Royal Specialty Underwriting, Inc., a
+Georgia company.
+
+                  "Tax" or "Taxes" means all federal, state, county, local,
+municipal, foreign and other taxes, assessments, duties or similar charges of
+any kind whatsoever, including all corporate franchise, income, gross receipts,
+occupation, windfall profits, sales, use, ad valorem, value-added, profits,
+license, withholding, payroll, employment, excise, insurance premium, real
+property, personal property, customs, net worth, capital gains, transfer, stamp,
+documentary, social security, disability, environmental, alternative minimum,
+estimated, recapture and other taxes, and including all interest, penalties and
+additions imposed with respect thereto.
+
+                  "Unaffiliated Reinsurers" shall mean reinsurers unaffiliated
+with Cedent other than Reinsurer.
+
+                                   ARTICLE II
+
+                              BASIS OF REINSURANCE
+
+                  Section 2.1 Cession. As of July 1, 2003, Cedent hereby cedes
+to Reinsurer, and Reinsurer hereby accepts and agrees to reinsure and indemnify
+Cedent for, one hundred percent (100%) of all Reinsured Liabilities, net of
+collectible reinsurance from Unaffiliated Reinsurers. The Reinsurer shall follow
+in all respects the fortunes of the Cedent with respect to the Reinsured
+Contracts and the Reinsured Liabilities being assumed by the Reinsurer under
+this RIC (Landmark) Quota Share Reinsurance Agreement.
+
+                  Section 2.2 Effect of Reinsured Contracts. Except as otherwise
+set forth in this RIC (Landmark) Quota Share Reinsurance Agreement, the
+reinsurance provided under this RIC (Landmark) Quota Share Reinsurance Agreement
+shall be subject to the same clauses, terms, limits, conditions, endorsements,
+modifications, and waivers of or affecting the Reinsured Contracts, it being the
+intent of the parties that Reinsurer shall follow the fortunes and settlements
+made by or on behalf of the Cedent in all respects.
+
+                  Section 2.3 Other Reinsurance. In the event that there is
+reinsurance provided by Unaffiliated Reinsurers that relates to the Reinsured
+Contracts or the Reinsured Liabilities, the amount of Reinsurer's liability
+under this RIC (Landmark) Quota Share Reinsurance Agreement will be increased by
+reason of the inability of Cedent to collect any reinsurance from any such
+Unaffiliated Reinsurer, whether specific or general, that may have become due
+from them, whether that inability arises from insolvency or otherwise.
+
+                                        5
+<PAGE>
+
+                                   ARTICLE III
+
+                             PREMIUMS AND ALLOWANCES
+
+                  Section 3.1 Cedent's Payment Obligations. Cedent agrees to pay
+to Reinsurer one hundred percent (100%) of the following amounts which are
+actually received by Cedent in respect of the Reinsured Contracts:
+
+                  (a)      premiums and other receivables to the extent they
+relate to the Reinsured Contracts;
+
+                  (b)      litigation and claim recoveries from third parties to
+the extent they relate to the Reinsured Contracts and/or the Reinsured
+Liabilities;
+
+                  (c)      any and all amounts paid by Reinsurer relating to the
+Reinsured Contracts which are not Reinsured Liabilities;
+
+                  (d)      Reinsurance Recoverables and any and all recoveries
+from third parties to the extent they relate to the Reinsured Liabilities and
+Reinsured Contracts; and
+
+                  (e)      any refunds or tax credits actually received by
+Cedent based upon such taxes and assessments for which Reinsurer has paid to, or
+on behalf of, Cedent pursuant to Sections 3.2(a)(ii) and 3.2(a)(iii).
+
+                  Section 3.2 Reinsurer's Payment Obligations. Reinsurer agrees
+to reimburse, or pay on behalf of, Cedent the following:
+
+                  (a)      (i) any and all state and local premium, surplus
+lines, unauthorized insurance or other similar taxes imposed on premiums
+written, collected or received, as applicable under the law of the applicable
+jurisdiction, on or after the Closing Date relating to the Reinsured Contracts;
+(ii) any and all guaranty fund or other residual market assessments incurred by
+Cedent with respect to premiums relating to the Reinsured Contracts and the
+Reinsured Liabilities; and (iii) any and all state or local Taxes imposed on
+Cedent in connection with the performance of the parties' obligations pursuant
+to any of the Ancillary Agreements, to the extent that such obligations relate
+to the Reinsured Contracts.
+
+                  (b)      producer compensation paid by the Cedent to the
+extent based on premiums arising from the Reinsured Contracts;
+
+                  (c)      any and all amounts actually paid by Cedent, other
+than by Reinsurer as Administrator under the RIC (Landmark) Administrative
+Services Agreement, relating to the Reinsured Contracts which are Reinsured
+Liabilities; and
+
+                  (d)      dividends actually paid to Policyholders by Cedent at
+the request of Reinsurer.
+
+                                        6
+<PAGE>
+
+                  Section 3.3 Reinsurance Administration.
+
+                  (a)      Reinsurer, as Administrator under the RIC (Landmark)
+Administrative Services Agreement, shall have the responsibility and authority
+to take all steps reasonably necessary to administer the third party reinsurance
+contracts with respect to the Reinsured Contracts and the Reinsured Liabilities.
+
+                  (b)      Reinsurer shall have a continuing obligation during
+the term of this RIC (Landmark) Quota Share Reinsurance Agreement to fund the
+Bank Accounts (as such term is defined in the RIC (Landmark) Administrative
+Services Agreement) in an amount sufficient to satisfy all Reinsured Liabilities
+as such liabilities become due. Notwithstanding any other provisions of this RIC
+(Landmark) Quota Share Reinsurance Agreement to the contrary, Cedent shall have
+no responsibility whatsoever to provide funds to satisfy the Reinsured
+Liabilities or fund the Bank Accounts.
+
+                                   ARTICLE IV
+
+                                  CONSIDERATION
+
+                  Section 4.1 Consideration. The consideration to be paid to the
+Reinsurer for assuming the Reinsured Liabilities under the terms of this RIC
+(Landmark) Quota Share Reinsurance Agreement shall be the transfer to Reinsurer
+of all reserves formerly held by Guaranty National with respect to Landmark
+under the 1993 Reinsurance Agreement.
+
+                                    ARTICLE V
+
+                      ACCOUNTING AND REINSURANCE SETTLEMENT
+
+                  Section 5.1 Delivery of Accounting and Settlement Reports.
+Within thirty (30) days following the end of each calendar month, Reinsurer, in
+its capacity as Administrator for Cedent under the RIC (Landmark) Administrative
+Services Agreement, shall provide Cedent with accounting and settlement reports
+(including underlying journal entries contemplated by the RIC (Landmark)
+Administrative Services Agreement) substantially in the format set forth in
+EXHIBIT A. (to the extent the relevant underlying information is available to
+Reinsurer's systems) Reinsurer and Cedent shall have the right to change the
+format of the reports upon thirty (30) days' prior written notice; provided,
+however, that the change shall involve no material additional cost to Cedent.
+
+                  Section 5.2 Report of Allowances. Within thirty (30) days
+following receipt of the report required to be provided by Reinsurer under
+Section 5.1 hereof, Reinsurer shall provide Cedent with a report of the
+allowances set forth in Section 3.2 in a format to be mutually agreed upon by
+the parties.
+
+                  Section 5.3 Payment of Amounts Indicated in Accounting and
+Settlement Reports. Simultaneously with Reinsurer's delivery of the accounting
+and
+
+                                        7
+<PAGE>
+
+settlement reports required to be provided under Section 5.1 hereof, Reinsurer
+shall pay any amounts due to Cedent indicated by such accounting and settlement
+reports. Cedent shall pay any amount due to Reinsurer on or before the thirtieth
+(30th) Business Day following its receipt of the accounting and settlement
+reports required to be provided to Cedent by Reinsurer under Section 5.1 hereof.
+Any late payment of an amount required by this RIC (Landmark) Quota Share
+Reinsurance Agreement to be paid or remitted by Cedent to Reinsurer or by
+Reinsurer to Cedent shall bear simple interest from and including the date such
+payment is due under this provision until, but excluding, the date of payment,
+at a rate per annum equal to the 90-Day Treasury Rate.
+
+                                   ARTICLE VI
+
+                             ACCOMMODATION CONTRACTS
+
+                  Section 6.1 Accommodation Contracts.
+
+                  (a)      From the Closing Date until February 1, 2004 (the
+"Accommodation Period"), Reinsurer shall be permitted to use Cedent's approved
+policy forms to write insurance contracts in Cedent's name in the U.S. and its
+territories (the "Accommodation Contracts") in accordance with Section 5.1 of
+the RIC (Landmark) Administrative Services Agreement; provided, however, under
+no circumstances shall Reinsurer to write in Cedent's name more than ten million
+dollars ($10,000,000) in gross written premiums during the Accommodation Period.
+
+                  (b)      Reinsurer acknowledges that its authority to issue
+the Accommodation Contracts in Cedent's name pursuant to this Section 6.1 is
+subject to the following additional limitations: (i) Reinsurer shall not assign
+or delegate its authority to a third party other than its Affiliates or entities
+listed on SCHEDULE 6.1(b); and (ii) Reinsurer shall not issue any Accommodation
+Contracts outside the United States.
+
+                  (c)      During the Accommodation Period, Cedent shall
+cooperate with Reinsurer and its Affiliates as reasonably requested by them to
+assist them in writing the Accommodation Contracts; provided, however, that
+Reinsurer shall be responsible for promptly reimbursing Cedent for any
+reasonable out-of-pocket costs and expenses incurred in providing such
+cooperation. Such reimbursement shall be provided by wire transfer of
+immediately available funds no later than ten (10) Business Days following
+Cedent's transmittal of invoices therefor to Cedent in accordance with the
+notice procedures set forth in Section 14.14 hereof.
+
+                  (d)      During the Accommodation Period, Cedent shall use
+commercially reasonable efforts to maintain all legal and regulatory authority
+and qualification in order to permit the issuance of Accommodation Contracts in
+all jurisdictions where such authority and qualification is maintained prior to
+the Closing Date.
+
+                                        8
+<PAGE>
+
+                                   ARTICLE VII
+
+                        REINSURED CONTRACT ADMINISTRATION
+
+                  Section 7.1 Administrative Services.
+
+                  (a)      The Reinsured Contracts shall be administered by
+Reinsurer pursuant to the terms and conditions of the RIC (Landmark)
+Administrative Services Agreement.
+
+                  (b)      Notwithstanding any other provision of this RIC
+(Landmark) Quota Share Reinsurance Agreement to the contrary, in no event shall
+the Cedent have any obligation or liability to the Reinsurer hereunder for any
+default of its obligations under this RIC (Landmark) Quota Share Reinsurance
+Agreement caused by the failure of Reinsurer to perform its obligations as
+Administrator under RIC (Landmark) Administrative Services Agreement.
+
+                                  ARTICLE VIII
+
+                                   INSOLVENCY
+
+                  Section 8.1 Insolvency. In the event of the insolvency of
+Cedent, all reinsurance under this RIC (Landmark) Quota Share Reinsurance
+Agreement shall be payable by Reinsurer on the basis of the liability of Cedent
+under the Reinsured Contracts without diminution because of the insolvency of
+Cedent. In the event of insolvency and the appointment of a conservator,
+liquidator or statutory successor of Cedent, all amounts payable by Reinsurer
+hereunder to Cedent shall be payable directly to Cedent or to such conservator,
+liquidator or statutory successor.
+
+                  Section 8.2 Notice of Pendency of Claim. It is understood,
+however, that in the event of the insolvency of Cedent, the liquidator or
+receiver or statutory successor of Cedent shall give written notice to Reinsurer
+of the pendency of a claim against Cedent on the Reinsured Contracts reinsured
+hereunder within a reasonable time after such claim is filed in the insolvency
+proceeding and during the pendency of such claim. Reinsurer may investigate such
+claim and interpose, at its own expense, in the proceeding where such claim is
+to be adjudicated, any defense or defenses which it may deem available to Cedent
+or its liquidator or receiver or statutory successor. It is further understood
+that the expense thus incurred by Reinsurer shall be chargeable, subject to
+court approval, against Cedent as part of the expense of liquidation to the
+extent of a proportionate share of the benefit which may accrue to Cedent as a
+result of the defense undertaken by Reinsurer.
+
+                  Section 8.3 Notice of Insolvency. If either Cedent or
+Reinsurer becomes insolvent, such party shall notify the other party of the
+insolvency within five (5) Business Days thereof.
+
+                                        9
+<PAGE>
+
+                                   ARTICLE IX
+
+                            DURATION AND TERMINATION
+
+                  Section 9.1 Effectiveness. This RIC (Landmark) Quota Share
+Reinsurance Agreement shall commence on the Closing Date. This RIC (Landmark)
+Quota Share Reinsurance Agreement shall remain in effect until all Reinsured
+Liabilities have been finally settled or expire unless earlier terminated
+according to the provisions of Section 9.2.
+
+                  Section 9.2 Termination.
+
+                  (a)      This RIC (Landmark) Quota Share Reinsurance Agreement
+may be terminated by a writing stating the effective date of termination:
+
+                           (i)      by mutual written agreement of the parties
+         at the time specified in such written agreement; or
+
+                           (ii)     at the option of Cedent, upon the issuance
+         of an order of liquidation or rehabilitation against Reinsurer;
+         provided, however, that in the event an order of liquidation or
+         rehabilitation is issued against Reinsurer, before Cedent may terminate
+         this RIC (Landmark) Quota Share Reinsurance Agreement, Reinsurer shall
+         have an opportunity to contest or appeal such order for a period of
+         sixty (60) days from the date of issuance.
+
+                  (b)      In the event that this RIC (Landmark) Quota Share
+Reinsurance Agreement is terminated under Section 9.2(a)(ii), Reinsurer shall
+return or cause to be returned, within twenty (20) days by wire transfer of
+immediately available funds to an account designated by Cedent in writing, all
+Reinsured Liabilities, evaluated as of the effective date of termination, and
+assets equal to those Reinsured Liabilities, less any amounts actually allowed
+to Cedent by Reinsurer as a ceding commission on that portion of the Reinsured
+Liabilities being returned as unearned premium reserve, and upon payment of
+such, Reinsurer shall be released of all liability for its Reinsured Liabilities
+under this RIC (Landmark) Quota Share Reinsurance Agreement.
+
+                                    ARTICLE X
+
+                               DUTY OF COOPERATION
+
+                  Section 10.1 Full Cooperation. The parties hereto shall
+cooperate in a commercially reasonable manner in order to accomplish the
+objectives of this RIC (Landmark) Quota Share Reinsurance Agreement including,
+without limitation, making available to each other their respective officers and
+employees for interviews and meetings with governmental authorities and
+furnishing any additional assistance, information and documentation as may be
+reasonably requested by the other party from time to time.
+
+                                       10
+<PAGE>
+
+                  Section 10.2 Furnishing of Relevant Information. Upon request,
+each party hereto shall furnish to the other relevant information concerning the
+Reinsured Contracts and Reinsured Liabilities, including but not limited to
+studies used in the determination of reserves and other Reinsured Liabilities,
+and each shall have the right to review and copy the books and records of the
+other concerning such Reinsured Contracts and Reinsured Liabilities upon
+reasonable notice, during normal business hours and at the requesting party's
+own cost and expense.
+
+                                   ARTICLE XI
+
+                                 INDEMNIFICATION
+
+                  Section 11.1 Indemnification by Reinsurer. Reinsurer hereby
+indemnifies Cedent and its Affiliates and its and their respective officers,
+directors, employees, agents and representatives against and agrees to hold each
+of them harmless from any and all Damages incurred or suffered by any of them
+arising out of or relating to (i) the Reinsured Contracts, (ii) the Reinsured
+Liabilities, (iii) any breach or nonfulfillment by Reinsurer of, or any failure
+by Reinsurer to perform, any of the terms or conditions of, or any duties or
+obligations under, this RIC (Landmark) Quota Share Reinsurance Agreement, and
+(iv) any enforcement of this indemnity.
+
+                  Section 11.2 Indemnification by Cedent. Cedent hereby
+indemnifies Reinsurer and its Affiliates and its and their respective officers,
+directors, employees, agents and representatives against and agrees to hold each
+of them harmless from any and all Damages incurred or suffered by any of them
+arising out of or relating to (i) Excluded Liabilities, (ii) any breach or
+nonfulfillment by Cedent of, or any failure by Cedent to perform, any of the
+terms or conditions of, or any duties or obligations under, this RIC (Landmark)
+Quota Share Reinsurance Agreement or the RIC (Landmark) Administrative Services
+Agreement other than breaches or nonfulfillments which result, directly or
+indirectly, from the failure of the Administrator to perform its obligations
+under RIC (Landmark) Administrative Services Agreement, and (iii) any
+enforcement of this indemnity.
+
+                                   ARTICLE XII
+
+                               REINSURANCE CREDIT
+
+                  Section 12.1 Reinsurance Credit. Notwithstanding any other
+provision of this RIC (Landmark) Quota Share Reinsurance Agreement to the
+contrary, if Reinsurer becomes unauthorized or otherwise unaccredited in any
+State, the District of Columbia, Canada or any other jurisdiction where
+authorization or accreditation is required by insurance regulatory authorities
+in order for Cedent to obtain full credit on its statutory quarterly and annual
+statements filed with such jurisdiction for the reinsurance being provided under
+this RIC (Landmark) Quota Share Reinsurance Agreement, Reinsurer, upon the
+request of Cedent, will immediately establish, at its sole cost and option, a
+trust
+
+                                       11
+<PAGE>
+
+agreement meeting the requirements of New York Regulation 114 and/or a
+Qualifying Letter of Credit in an amount necessary to permit Cedent to obtain
+full credit for such reinsurance in such jurisdiction.
+
+                  Section 12.2 Notification. Reinsurer shall notify Cedent
+within five (5) Business Days of any loss of license or authorization or other
+change or condition that may affect the ability of Cedent to obtain full credit
+for the reinsurance being provided under this RIC (Landmark) Quota Share
+Reinsurance Agreement.
+
+                                  ARTICLE XIII
+
+                                   ARBITRATION
+
+                  Section 13.1 Arbitration. As a condition precedent to any
+cause of action, any and all disputes between Cedent and Reinsurer arising out
+of, relating to, or concerning this RIC (Landmark) Quota Share Reinsurance
+Agreement, whether sounding in contract or tort and whether arising during or
+after termination of this RIC (Landmark) Quota Share Reinsurance Agreement,
+including whether the dispute is subject to arbitration, shall be submitted to
+the decision of a board of arbitration composed of two arbitrators and an umpire
+("Board") meeting at a site in Wilmington, Delaware. The arbitration shall be
+conducted under the Federal Arbitration Act and shall proceed as set forth
+below.
+
+                  Section 13.2 Notice of Arbitration. A notice requesting
+arbitration, or any other notice made in connection therewith, shall be in
+writing and shall be sent certified or registered mail, return receipt requested
+to the affected parties. The notice requesting arbitration shall state in
+particulars all issues to be resolved in the view of the claimant, shall appoint
+the arbitrator selected by the claimant and shall set a tentative date for the
+hearing, which date shall be no sooner than ninety (90) days and no later than
+one hundred fifty (150) days from the date that the notice requesting
+arbitration is mailed. Within thirty (30) days of receipt of claimant's notice,
+the respondent shall notify claimant of any additional issues to be resolved in
+the arbitration and of the name of its appointed arbitrator.
+
+                  Section 13.3 Arbitration Panel. Unless otherwise mutually
+agreed, the members of the Board shall be impartial and disinterested and shall
+be active or former executive officers of property-casualty insurance companies,
+reinsurance companies, or Lloyd's Underwriters or active or inactive lawyers
+with at least twenty (20) years of experience in insurance and reinsurance.
+Cedent and Reinsurer shall each appoint an arbitrator and the two (2)
+arbitrators shall choose an umpire before instituting the hearing. If the
+respondent fails to appoint its arbitrator within thirty (30) days after having
+received claimant's written request for arbitration, the claimant is authorized
+to and shall appoint the second arbitrator. If the two arbitrators fail to agree
+upon the appointment of an umpire within thirty (30) days after notification of
+the appointment of the second arbitrator, within ten (10) days thereof, the two
+(2) arbitrators shall request the American Arbitration Association ("AAA") to
+appoint an umpire for the arbitration with the
+
+                                       12
+<PAGE>
+
+qualifications set forth in this Article. If the AAA fails to name an umpire,
+either party may apply to the court named below to appoint an umpire with the
+above required qualifications. The umpire shall promptly notify in writing all
+parties to the arbitration of his selection and of the scheduled date for the
+hearing. Upon resignation or death of any member of the Board, a replacement
+shall be appointed in the same fashion as the resigning or deceased member was
+appointed.
+
+                  Section 13.4 Submission of Briefs. The claimant and respondent
+shall each submit initial briefs to the Board outlining the issues in dispute
+and the basis, authority and reasons for their respective positions within
+thirty (30) days of the date of notice of appointment of the umpire. The
+claimant and the respondent may submit reply briefs to the Board within ten (10)
+days after filing of the initial brief(s). Initial and reply briefs may be
+amended by the submitting party at any time, but not later than ten (10) days
+prior to the date of commencement of the arbitration hearing. Reasonable
+responses shall be allowed at the arbitration hearing to new material contained
+in any amendments filed to the briefs but not previously responded to.
+
+                  Section 13.5 Arbitration Board's Decision. The Board shall
+make a decision and award with regard to the terms of this RIC (Landmark) Quota
+Share Reinsurance Agreement and the original intentions of the parties to the
+extent reasonably ascertainable. The Board's decision and award shall be in
+writing and shall state the factual and legal basis for the decision and award.
+The decision and award shall be based upon a hearing in which evidence shall be
+allowed and which the formal rules of evidence shall not strictly apply but in
+which cross examination and rebuttal shall be allowed. At its own election or at
+the request of the Board, either party may submit a post-hearing brief for
+consideration of the Board within twenty (20) days of the close of the hearing.
+The Board shall make its decision and award within thirty (30) days following
+the close of the hearing or the submission of post-hearing briefs, whichever is
+later, unless the parties consent to an extension. Every decision by the Board
+shall be by a majority of the members of the Board and each decision and award
+by the majority of the members of the Board shall be final and binding upon all
+parties to the proceeding.
+
+                  Section 13.6 Jurisdiction. Either party may apply to the
+Chancery Court of the State of Delaware for an order compelling arbitration or
+confirming any decision and the award; a judgment of that Court shall thereupon
+be entered on any decision or award. If such an order is issued, the attorneys'
+fees of the party so applying and court costs will be paid by the party against
+whom confirmation is sought. The Board may award interest calculated from the
+date the Board determines that any amounts due the prevailing party should have
+been paid to the prevailing party.
+
+                  Section 13.7 Expenses. Each party shall bear the expense of
+the one arbitrator appointed by it and shall jointly and equally bear with the
+other party the expense of any stenographer requested, and of the umpire.
+
+                                       13
+<PAGE>
+
+                  Section 13.8 Production of Documents and Witnesses. Subject to
+customary and recognized legal rules of privilege, each party participating in
+the arbitration shall have the obligation to produce those documents and as
+witnesses to the arbitration those of its employees as any other participating
+party reasonably requests providing always that the same witnesses and documents
+be obtainable and relevant to the issues before the arbitration and not be
+unduly burdensome or excessive. The parties may mutually agree as to pre-hearing
+discovery prior to the arbitration hearing and in the absence of agreement, upon
+the request of any party, pre-hearing discovery may be conducted as the Board
+shall determine in its sole discretion to be in the interest of fairness, full
+disclosure, and a prompt hearing, decision and award by the Board. The Board
+shall be the final judge of the procedures of the Board, the conduct of the
+arbitration, of the rules of evidence, the rules of privilege and production and
+of excessiveness and relevancy of any witnesses and documents upon the petition
+of any participating party. To the extent permitted by law, the Board shall have
+the authority to issue subpoenas and other orders to enforce their decisions.
+
+                  Section 13.9 Relief Available. Nothing herein shall be
+construed to prevent any participating party from applying to the Chancery Court
+of the State of Delaware to issue a restraining order or other equitable relief
+to maintain the "status quo" of the parties participating in the arbitration
+pending the decision and award by the Board or to prevent any party from
+incurring irreparable harm or damage at any time prior to the decision and award
+of the Board. The Board shall also have the authority to issue interim decisions
+or awards in the interest of fairness, full disclosure, and a prompt and orderly
+hearing and decision and award by the Board.
+
+                  Section 13.10 Consolidation. In the event that there is a
+dispute between the Cedent and Reinsurer which implicates the provisions of this
+RIC (Landmark) Quota Share Reinsurance Agreement and the RIC (Landmark)
+Administrative Services Agreement, Cedent and Reinsurer hereby agree to
+consolidate any such dispute under such agreements in a single arbitration
+proceeding.
+
+                                   ARTICLE XIV
+
+                            MISCELLANEOUS PROVISIONS
+
+                  Section 14.1 Amendment, Modification and Waiver. This RIC
+(Landmark) Quota Share Reinsurance Agreement may not be amended, modified or
+waived except by an instrument or instruments in writing signed and delivered on
+behalf of each of the parties hereto. No failure or delay by any party in
+exercising any right, power or privilege hereunder shall operate as a waiver
+thereof nor shall any single or partial exercise thereof preclude any other or
+further exercise thereof or the exercise of any other right, power or
+privileged. The rights and remedies herein provided shall be cumulative and not
+exclusive of any rights or remedies provided by law.
+
+                  Section 14.2 Entire Agreement. This RIC (Landmark) Quota Share
+Reinsurance Agreement (together with the exhibits hereto and the other
+agreements,
+
+                                       14
+<PAGE>
+
+documents and instruments delivered in connection herewith) the Acquisition
+Agreement, the RIC (Landmark) Administrative Services Agreement and the other
+Landmark Ancillary Agreements constitute the entire agreement among the parties
+with respect to the subject matter hereof and thereof and supersede all other
+prior agreements and understandings, both written and verbal, among the parties
+or any of them with respect to the subject matter hereof.
+
+                  Section 14.3 Governing Law. This RIC (Landmark) Quota Share
+Reinsurance Agreement shall be governed by and construed in accordance with the
+laws of the State of Delaware, regardless of the laws that might otherwise
+govern under applicable principles of conflicts of laws thereof.
+
+                  Section 14.4 Severability. Any term or provision of this RIC
+(Landmark) Quota Share Reinsurance Agreement which is invalid or unenforceable
+in any jurisdiction shall, as to that jurisdiction, be ineffective to the extent
+of such invalidity or unenforceability without rendering invalid or
+unenforceable the remaining terms and provisions of this RIC (Landmark) Quota
+Share Reinsurance Agreement or affecting the validity or enforceability of any
+of the terms or provisions of this RIC (Landmark) Quota Share Reinsurance
+Agreement in any other jurisdiction. If any provision of this RIC (Landmark)
+Quota Share Reinsurance Agreement is so broad as to be unenforceable, the
+provision shall be interpreted to be only so broad as would be enforceable.
+
+                  Section 14.5 Counterparts. This RIC (Landmark) Quota Share
+Reinsurance Agreement may be executed in counterparts, each of which shall be
+deemed to be an original, but all of which shall constitute one and the same
+agreement.
+
+                  Section 14.6 Consent to Jurisdiction. Each of the parties
+hereto irrevocably and unconditionally submits to the exclusive jurisdiction of
+the state and federal courts located in the State of Delaware for the purposes
+of enforcing this Quota Share Agreement or the RIC (Landmark) Administrative
+Services Agreement. If any action is brought in a state court, the parties shall
+take such actions as are within their control to cause any matter contemplated
+hereby to be assigned to the Chancery Court of the State of Delaware. In any
+action, suit or other proceeding, each of the parties hereto irrevocably and
+unconditionally waives and agrees not to assert by way of motion, as a defense
+or otherwise any claims that it is not subject to the jurisdiction of the above
+courts, that such action or suit is brought in an inconvenient forum or that the
+venue of such action, suit or other proceeding is improper. Each of the parties
+hereto also agrees that any final and unappealable judgment against a party
+hereto in connection with any action, suit or other proceeding shall be
+conclusive and binding on such party and that such award or judgment may be
+enforced in any court of competent jurisdiction, either within or outside of the
+United States. A certified or exemplified copy of such award or judgment shall
+be conclusive evidence of the fact and amount of such award or judgment.
+
+                  Section 14.7 Third Party Beneficiaries. Except for the
+provisions of Article XI, nothing in this RIC (Landmark) Quota Share Reinsurance
+Agreement, express or implied, is intended to or shall confer upon any person,
+other than the parties hereto
+
+                                       15
+<PAGE>
+
+any rights, benefits or remedies of any nature whatsoever under or by reason of
+this RIC (Landmark) Quota Share Reinsurance Agreement.
+
+                  Section 14.8 Binding; Assignment. This RIC (Landmark) Quota
+Share Reinsurance Agreement shall be binding upon and inure to the benefit of
+the parties hereto and their respective successors and assigns. Neither this RIC
+(Landmark) Quota Share Reinsurance Agreement, nor any rights, interests or
+obligations hereunder, may be directly or indirectly assigned, delegated,
+sublicensed or transferred by any party to this RIC (Landmark) Quota Share
+Reinsurance Agreement, in whole or in part, to any other person (including any
+bankruptcy trustee) by operation of law or otherwise, whether voluntarily or
+involuntarily, without the prior written consent of the parties hereto.
+
+                  Section 14.9 Specific Performance. The parties recognize and
+agree that if for any reason any of the provisions of this RIC (Landmark) Quota
+Share Reinsurance Agreement are not performed in accordance with their specific
+terms or are otherwise breached, immediate and irreparable harm or injury would
+be caused for which money damages would not be an adequate remedy. Accordingly,
+each party agrees that, in addition to any other available remedies, each other
+party shall be entitled to an injunction restraining any violation or threatened
+violation of any of the provisions of this RIC (Landmark) Quota Share
+Reinsurance Agreement without the necessity of posting a bond or other form of
+security pending the outcome of any arbitration. In the event that any action
+should be brought in equity to enforce any of the provisions of this RIC
+(Landmark) Quota Share Reinsurance Agreement, no party will allege, and each
+party hereby waives the defense, that there is an adequate remedy at law.
+
+                  Section 14.10 Descriptive Headings. The descriptive article
+and section headings herein are inserted for convenience of reference only and
+are not intended to be part of or to affect the meaning or interpretation of
+this RIC (Landmark) Quota Share Reinsurance Agreement.
+
+                  Section 14.11 Waiver of Doctrine of Utmost Good Faith.
+Reinsurer absolutely and irrevocably waives resort to the doctrine of "utmost
+good faith" or any similar doctrine in connection with the formation or
+performance of this Agreement.
+
+                  Section 14.12 Expenses. Unless otherwise specifically provided
+herein, all costs and expenses incurred in connection with this RIC (Landmark)
+Quota Share Reinsurance Agreement shall be paid by the party incurring such cost
+or expense.
+
+                  Section 14.13 Survival. The provisions of Articles XII, XIII
+and XIV hereof shall survive the termination of this RIC (Landmark) Quota Share
+Reinsurance Agreement.
+
+                  Section 14.14 Notices. All notices, requests, claims, demands
+and other communications hereunder shall be in writing and shall be given (and
+shall be deemed to have been duly given upon receipt) by delivery in person, by
+facsimile (which is confirmed), by courier (delivery of which is confirmed), or
+by registered or certified mail
+
+                                       16
+<PAGE>
+
+(postage prepaid, return receipt requested) to the respective parties to this
+RIC (Landmark) Quota Share Reinsurance Agreement as follows:
+
+                  If to Reinsurer:
+
+                           Laura S. Lawrence, Esq.
+                           General Counsel
+                           Royal Indemnity Company
+                           9300 Arrowpoint Blvd.
+                           Charlotte, NC 28273
+                           Telephone No.: (704) 522-2851
+                           Facsimile No.: (704) 522-2313
+
+                  With a copy to (which shall not constitute notice to Reinsurer
+for purposes of this Section 14.14):
+
+                           Robert J. Sullivan, Esq.
+                           Skadden, Arps, Slate, Meagher & Flom LLP
+                           Four Times Square
+                           New York, New York 10036
+                           Telephone No.: 212-735-2930
+                           Facsimile No.: 212-735-2000
+
+                  If to Cedent:
+
+                           David E. Leonard
+                           Executive Vice President
+                           Landmark American Insurance Company
+                           945 East Paces Ferry Road
+                           Atlanta, Georgia 30326
+                           Telephone No.: (404) 760-4982
+                           Facsimile No.: (404) 264-7233
+
+                  With copies to (which shall not constitute notice to Cedent
+for purposes of this Section 14.14):
+
+                           Robert M. Hart, Esq.
+                           General Counsel
+                           Alleghany Corporation
+                           375 Park Avenue
+                           New York, New York 10152
+                           Telephone No.: (212) 752-1356
+                           Facsimile No.: (212) 759-8149
+
+                           and
+
+                           Aileen C. Meehan, Esq.
+                           Dewey Ballantine LLP
+
+                                       17
+<PAGE>
+
+                           1301 Avenue of the Americas
+                           New York, New York 10019
+                           Telephone No.: (212) 259-8000
+                           Facsimile No.: (212) 259-6333
+
+or to such other address as the person to whom notice is given may have
+previously furnished to the others in writing in the manner set forth above. In
+no event shall the provision of notice pursuant to this Section 14.14 constitute
+notice for service of any writ, process or summons in any suit, action or other
+proceeding.
+
+                  Section 14.15 Interpretation.
+
+                  (a)      When a reference is made in this RIC (Landmark) Quota
+Share Reinsurance Agreement to a Section or Article, such reference shall be to
+a section or article of this RIC (Landmark) Quota Share Reinsurance Agreement
+unless otherwise clearly indicated to the contrary. Whenever the words
+"include", "includes" or "including" are used in this RIC (Landmark) Quota Share
+Reinsurance Agreement, they shall be deemed to be followed by the words "without
+limitation." The words "hereof," "herein" and "herewith" and words of similar
+import shall, unless otherwise stated, be construed to refer to this RIC
+(Landmark) Quota Share Reinsurance Agreement as a whole and not to any
+particular provision of this RIC (Landmark) Quota Share Reinsurance Agreement.
+The meaning assigned to each term used in this RIC (Landmark) Quota Share
+Reinsurance Agreement shall be equally applicable to both the singular and the
+plural forms of such term, and words denoting any gender shall include all
+genders. Where a word or phrase is defined herein, each of its other grammatical
+forms shall have a corresponding meaning.
+
+                  (b)      The parties have participated jointly in the
+negotiation and drafting of this RIC (Landmark) Quota Share Reinsurance
+Agreement; consequently, in the event an ambiguity or question of intent or
+interpretation arises, this RIC (Landmark) Quota Share Reinsurance Agreement
+shall be construed as if drafted jointly by the parties thereto, and no
+presumption or burden of proof shall arise favoring or disfavoring any party by
+virtue of the authorship of any provisions of this RIC (Landmark) Quota Share
+Reinsurance Agreement.
+
+                  Section 14.16 Construction. This RIC (Landmark) Quota Share
+Reinsurance Agreement is the result of arms-length negotiations between the
+parties hereto and has been prepared jointly by the parties. In applying and
+interpreting the provisions of this RIC (Landmark) Quota Share Reinsurance
+Agreement, there shall be no presumptions that this RIC (Landmark) Quota Share
+Reinsurance Agreement was prepared by any one party or that this RIC (Landmark)
+Quota Share Reinsurance Agreement shall be construed in favor of or against any
+one party.
+
+                  Section 14.17 Territory. This RIC (Landmark) Quota Share
+Reinsurance Agreement applies to losses arising out of Reinsured Contracts
+wherever written.
+
+                                       18
+<PAGE>
+
+                  Section 14.18 Confidentiality. Each party hereto will hold,
+and will use its reasonable best efforts to cause its Affiliates, and their
+respective representatives to hold, in strict confidence from any Person (other
+than any such Affiliates or representatives), except with the prior written
+consent of the other party or unless (i) compelled to disclose by judicial or
+administrative process (including without limitation in connection with
+obtaining the necessary approvals of this Agreement and the transactions
+contemplated hereby of governmental or regulatory authorities) or by other
+requirements of Applicable Law or (ii) disclosed in an action or proceeding
+brought by a party hereto in pursuit of its rights or in the exercise of its
+remedies hereunder, this RIC (Landmark) Quota Share Reinsurance Agreement, the
+terms and conditions hereof, and all documents and information concerning the
+other party or any of its Affiliates furnished to it by the other party or such
+other party's representatives in connection with the transactions contemplated
+hereby, except to the extent that such documents or information can be shown to
+have been (a) previously known by the party receiving such documents or
+information, (b) in the public domain (either prior to or after the furnishing
+of such documents or information hereunder) through no fault of such receiving
+party or (c) later acquired by the receiving party from another source if the
+receiving party is not aware that such source is under an obligation to another
+party hereto to keep such documents and information confidential.
+
+                                       19
+<PAGE>
+
+                  IN WITNESS WHEREOF, Cedent and Reinsurer have caused their
+names to be subscribed by their respective authorized officers.
+
+                                     ROYAL INDEMNITY COMPANY
+
+                                     By: /s/ Roderick P. Hoover, Jr.
+                                         ---------------------------
+                                         Name:  Roderick P. Hoover, Jr.
+                                         Title: Vice President
+
+                                     LANDMARK AMERICAN INSURANCE COMPANY
+
+                                     By: /s/ David E. Leonard
+                                         ---------------------------
+                                         Name:  David E. Leonard
+                                         Title: Executive Vice President
+
+
+</TEXT>
+</DOCUMENT>
